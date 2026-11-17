@@ -1,2 +1,2 @@
 # Whole-code
-A Work Art in Engineering
+A Work of Art in Engineering
